@@ -1,3 +1,4 @@
+project.json filter=lfs diff=lfs merge=lfs -text
 /worm/v3/project.json filter=lfs diff=lfs merge=lfs -text
 /ultimate-god/project.json filter=lfs diff=lfs merge=lfs -text
 /living-god/project.json filter=lfs diff=lfs merge=lfs -text
