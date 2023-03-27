@@ -26,7 +26,7 @@
     <!-- Insert the following in the beginning of <body> (on the line above <div id="app">) -->
 <div id="indicator"><script>{let _XHR = XMLHttpRequest;  XMLHttpRequest = class XHR extends _XHR {constructor () {
   super();
-  this.addEventListener('progress', e => {indicator.innerText = " Loading data: " + (!e.total ? `${(e.loaded/1024**2).toFixed(1)} MB` : `${(100 * e.loaded / e.total).toFixed(2)}%`) + "\nPercentage: " + `${(100 * e.loaded / (e.total||SIZE)).toFixed(2)}%`});
+  this.addEventListener('progress', e => {indicator.innerText = " Loading data: " + (!e.total ? `${(e.loaded/1024**2).toFixed(1)} MB` : `${(100 * e.loaded / e.total).toFixed(2)}%`)});
   this.addEventListener('loadend', () => {indicator.innerText = ""});
 }}}</script></div>
 <!-- Modifier: replace `${e.loaded} bytes` with `${(e.loaded/1024**2).toFixed(1)} MB` to display size in MB -->
