@@ -5,8 +5,8 @@ This is where I'll be keeping my CYOAs.
 ## Interactive CYOAs
 - [Living God][living-god]
 - [Ultimate God Redux][ultimate-god]
+- [JRPG Traitor][jrpg-traitor]
 - [Awakened God][awakened-god] (WIP)
-- [JRPG Traitor][jrpg-traitor] (WIP)
 # Tools
 - [Interactive CYOA Download Progress Indicator](https://pastebin.com/Yf4ygvBX)
 
