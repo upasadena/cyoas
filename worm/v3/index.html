@@ -23,9 +23,17 @@
 
 <body><noscript><strong>We're sorry but the CYOA doesn't work properly without JavaScript enabled.
             Please enable it to continue.</strong></noscript>
+<div id="indicator"><script>{let _XHR = XMLHttpRequest;  XMLHttpRequest = class XHR extends _XHR {constructor () {
+  super();
+  this.addEventListener('progress', e => {indicator.innerText = " Loading data: " + (!e.total ? `${(e.loaded/1024**2).toFixed(1)} MB` : `${(100 * e.loaded / e.total).toFixed(2)}%`)});
+  this.addEventListener('loadend', () => {indicator.innerText = "",document.getElementsByClassName("pb-12")[0].style.cssText += "background-size: cover;background-position: center;background-attachment: fixed;"});
+  
+}}}</script></div>
+<!-- Thanks to the Jedi: Guardian of the Republic Interactive CYOA for the above code! -->
     <div id=app></div>
     <script src=js/chunk-vendors.59af3576.js></script>
     <script src=js/app.c533aa25.js></script>
+	<script load />
 </body>
 
 </html>
