@@ -1,12 +1,15 @@
 # Pasadena's CYOAs
 This is where I'll be keeping my CYOAs.
+
 ## Interactive Worm CYOAs
 - [V3 Revised][worm-v3]
+
 ## Interactive CYOAs
 - [Living God][living-god]
 - [Ultimate God Redux][ultimate-god]
 - [JRPG Traitor][jrpg-traitor]
 - [Awakened God][awakened-god] (WIP)
+
 # Tools
 - [Interactive CYOA Download Progress Indicator](https://pastebin.com/Yf4ygvBX)
 
