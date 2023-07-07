@@ -48,7 +48,7 @@ View the indevelopment version [here][awakened-god].
 [ultimate-god]: ./ultimate-god/
 [ug-v1.0]: https://pasadena.neocities.org/cyoas/ultimate_god_redux/100/
 [ug-v1.1]: https://drive.google.com/drive/folders/1yx6rcMWy4dnjNITSAzrNL6xOiD1GgD6j
-[ug-v1.2.0]: https://drive.google.com/drive/folders/1Ghhac2p54lK61Lovr8ON9naLSuyclCsr
+[ug-v1.2]: https://drive.google.com/drive/folders/1Ghhac2p54lK61Lovr8ON9naLSuyclCsr
 [ug-v1.2.1]: https://drive.google.com/drive/folders/1pGXODp3N2UaRx3r-TyTygkpll_TcyH89
 [ug-v1.2.2]: https://pasadena.neocities.org/cyoas/ultimate_god_redux/120/
 [awakened-god]: ./awakened-god/
