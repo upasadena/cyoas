@@ -54,3 +54,9 @@ View the indevelopment version [here][awakened-god].
 [awakened-god]: ./awakened-god/
 [jrpg-traitor]: ./jrpg-traitor/
 [ugr-drive]: https://drive.google.com/drive/folders/1T8Yv6choalujip8gT5THSP4MX5ZStsjd
+
+<!-- HTML -->
+<script data-goatcounter="https://pdcyoas.goatcounter.com/count" async src="//gc.zgo.at/count.js"/>
+<noscript>
+    <img src="https://icct.goatcounter.com/count?p=/noscript-root">
+</noscript>
