@@ -8,7 +8,11 @@ This is where I'll be keeping my CYOAs.
 ### Living God
 
 * [Latest][living-god] – Hosted on GitHub
-* [v1.3.0][living-god-v1.3.0]
+* [v1.3.1][living-god]
+    * Adjusted Backpack so that Choices are not as skinny
+    * Adjusted Backpack so that Choices are centred 
+    * Adjusted Backpack so that the background doesn't repeat
+* v1.3.0
     * Changed Backpack to now seperate by Rows
     * Changed spacing for a lot of options so that text is more readable
     * Removed Background from all Rows so it didn't repeat as much
