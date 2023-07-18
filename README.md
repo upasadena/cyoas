@@ -8,12 +8,26 @@ This is where I'll be keeping my CYOAs.
 ### Living God
 
 * [Latest][living-god] – Hosted on GitHub
-* [v1.2][living-god-v1.2] – Themed
+* [v1.3.0][living-god-v1.3.0]
+    * Changed Backpack to now seperate by Rows
+    * Changed spacing for a lot of options so that text is more readable
+    * Removed Background from all Rows so it didn't repeat as much
+    * Changed filtering so it's easier to tell when something cannot be
+      selected
+    * Added a Points Hide menu
+    * Made font slightly bigger to see easier
+    * Switched over to the modded app.js to allow hyperlinking
+    * Added hyperlinks
+    * Flattened Tabs and Points menu so they look nicer
+    * Added a changelog (hi)
+    * Changed style to selected choices. They will now have opacity
+    * Added progress loading indicator
+* [v1.2.0][living-god-v1.2] – Themed
     * Fixed some grammatical errors and spelling mistakes
     * Added a background
     * Changed up some styles
-* [v1.1][living-god-v1.1] – Images
-* [v1.0][living-god-v1.0] – Text only
+* [v1.1.0][living-god-v1.1] – Images
+* [v1.0.0][living-god-v1.0] – Text only
 
 ### Ultimate God Redux
 This uses Version 4 of the Redux.
@@ -42,6 +56,7 @@ View the indevelopment version [here][awakened-god].
 
 [worm-v3]: ./worm/v3/
 [living-god]: ./living-god/
+[living-god-v1.3.0]: https://upasadena.github.io/cyoas/living-god/
 [living-god-v1.2]: https://pasadena.neocities.org/cyoas/living_god_120/
 [living-god-v1.1]: https://pasadena.neocities.org/cyoas/living_god_110/
 [living-god-v1.0]: https://pasadena.neocities.org/cyoas/living_god_100/
