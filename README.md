@@ -13,7 +13,7 @@ This is where I'll be keeping my CYOAs.
     * Adjusted Backpack so that Choices are centred 
     * Adjusted Backpack so that the background doesn't repeat
 * v1.3.0
-    * Changed Backpack to now seperate by Rows
+    * Changed Backpack to now separate by Rows
     * Changed spacing for a lot of options so that text is more readable
     * Removed Background from all Rows so it didn't repeat as much
     * Changed filtering so it's easier to tell when something cannot be
