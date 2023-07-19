@@ -1,10 +1,22 @@
 # Pasadena's CYOAs
-This is where I'll be keeping my CYOAs.
+This is where I keep my CYOAs.
 
-## Interactive Worm CYOAs
-- [V3 Revised][worm-v3]
+* [Living God CYOA: Interactive][living-god]
+* [Ultimate God CYOA Redux: Interactive][ultimate-god]
+* [Worm CYOA V3 Revised: Interactive][worm-v3]
+* [JRPG Traitor: Interactive][jrpg-traitor]
 
-## Interactive CYOAs
+## Changelog and Previous Versions
+
+### Interactive Worm CYOAs
+
+* [Latest][worm-v3] – Hosted on GitHub
+* [v1.2.2][worm-v3-v1.2.2] - Fixed some bugs (Neocities)
+* [v1.2.1][worm-v3-v1.2.1] – Themed with MORE images (Google Drive)
+* [v1.2.0][worm-v3-v1.2] – Themed with images (Google Drive)
+* [v1.1.0][worm-v3-v1.1] – Themed, no images (Google Drive)
+* [v1.0.0][worm-v3-v1.0] – Text only (Google Drive)
+
 ### Living God
 
 * [Latest][living-god] – Hosted on GitHub
@@ -82,3 +94,10 @@ View the indevelopment version [here][awakened-god].
 [awakened-god]: ./awakened-god/
 [jrpg-traitor]: ./jrpg-traitor/
 [ugr-drive]: https://drive.google.com/drive/folders/1T8Yv6choalujip8gT5THSP4MX5ZStsjd
+[worm-v3-v1.0]: https://drive.google.com/drive/folders/1g_vaTBmVHPZS-anj_8Zro7weEudmFuJS
+[worm-v3-v1.1]: https://drive.google.com/drive/folders/1YSpA7VidEpSYEOI-AurpjF0tX_B8gAT0
+[worm-v3-v1.2]: https://drive.google.com/drive/folders/1sSXZNyNpZxRDFcyQslBtDZAxvC9lIvNO
+[worm-v3-v1.2.1]: https://drive.google.com/drive/folders/106ExFKNLqHCvW6pEezkt0adq7zcBwBD5
+[worm-v3-v1.2.2]: https://pasadena.neocities.org/cyoas/worm/v3/latest/
+
+<!-- BUFFER -->
