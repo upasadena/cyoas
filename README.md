@@ -8,7 +8,9 @@ This is where I'll be keeping my CYOAs.
 ### Living God
 
 * [Latest][living-god] – Hosted on GitHub
-* [v1.3.2][living-god]
+* v1.3.3
+    * Changed it from saying "Changelog" three times to two times instead
+* v1.3.2
     * Hidden Changelog by default so as to not clog up screen space
 * v1.3.1
     * Adjusted Backpack so that Choices are not as skinny
