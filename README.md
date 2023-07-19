@@ -8,6 +8,9 @@ This is where I'll be keeping my CYOAs.
 ### Living God
 
 * [Latest][living-god] – Hosted on GitHub
+* v1.3.5
+    * Fixed taking Poet-Prince Dkarma as an Ally preventing you from taking the
+      Consort
 * v1.3.4
     * Fixed hyperlink not linking to the correct URL
 * v1.3.3
