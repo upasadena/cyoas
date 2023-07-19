@@ -8,6 +8,8 @@ This is where I'll be keeping my CYOAs.
 ### Living God
 
 * [Latest][living-god] – Hosted on GitHub
+* v1.3.4
+    * Fixed hyperlink not linking to the correct URL
 * v1.3.3
     * Changed it from saying "Changelog" three times to two times instead
 * v1.3.2
