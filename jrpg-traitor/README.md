@@ -45,3 +45,11 @@
       Where would I put it? Maybe have it able to be toggled, and maybe in the
       Debug Points section.
 - [ ] For powers that require "X number of elements", much the same as above
+- [ ] Find a CSS way to have different backgrounds according to different
+  sections
+    * Perhaps have it update (a smooth transition would be nice) depending on
+      whether the user has reached the new sections or not
+        * Perhaps with span tags? invisible tags?
+    * Resources:
+        * https://stackoverflow.com/questions/55810019/changing-div-span-colour-when-scrolling-past-elements
+        * https://stackoverflow.com/questions/21757193/change-background-of-fixed-header-when-scrolling-past-elements

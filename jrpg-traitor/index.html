@@ -19,20 +19,38 @@
     <link href=js/chunk-vendors.59af3576.js rel=preload as=script>
     <link href=css/chunk-vendors.58637379.css rel=stylesheet>
     <link href=css/app.df7ca14c.css rel=stylesheet>
+
+    <link href="css/dynamic-background.css" rel=stylesheet>
+    <script src="js/dynamic-background.js"></script>
 </head>
 
-<body><noscript><strong>We're sorry but the CYOA doesn't work properly without JavaScript enabled.
-            Please enable it to continue.</strong></noscript>
-    <!-- Insert the following in the beginning of <body> (on the line above <div id="app">) -->
-<script data-goatcounter="https://upasadena.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-<div id="indicator"><script>{let _XHR = XMLHttpRequest;  XMLHttpRequest = class XHR extends _XHR {constructor () {
-  super();
-  this.addEventListener('progress', e => {indicator.innerText = " Loading data: " + (!e.total ? `${(e.loaded/1024**2).toFixed(1)} MB` : `${(100 * e.loaded / e.total).toFixed(2)}%`)});
-  this.addEventListener('loadend', () => {indicator.innerText = ""});
-}}}</script></div>
-<!-- Modifier: replace `${e.loaded} bytes` with `${(e.loaded/1024**2).toFixed(1)} MB` to display size in MB -->
-<!-- Modifier: replace the part after " Loading data: " with `${(100 * e.loaded / (e.total||SIZE)).toFixed(2)}%` to
-               always show percentage (SIZE is project.json size in bytes; remember to replace it on every update) -->
+<body>
+    <noscript>
+        <strong>We're sorry but the CYOA doesn't work properly without JavaScript enabled.
+            Please enable it to continue.
+        </strong>
+    </noscript>
+    <script data-goatcounter="https://upasadena.goatcounter.com/count" async src="js/count.js"></script>
+    <div id="indicator">
+        <script>
+            {
+                let _XHR = XMLHttpRequest;
+                XMLHttpRequest = class XHR extends _XHR {
+                    constructor() {
+                        super();
+                        this.addEventListener('progress', e => {
+                            indicator.innerText = " Loading data: " + (!e.total ?
+                                `${(e.loaded/1024**2).toFixed(1)} MB` :
+                                `${(100 * e.loaded / e.total).toFixed(2)}%`)
+                        });
+                        this.addEventListener('loadend', () => {
+                            indicator.innerText = ""
+                        });
+                    }
+                }
+            }
+        </script>
+    </div>
     <div id=app></div>
     <script src=js/chunk-vendors.59af3576.js></script>
     <script src=js/app.c533aa25.js></script>

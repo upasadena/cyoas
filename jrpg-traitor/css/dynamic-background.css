@@ -1,0 +1,62 @@
+.pb-12 {
+  transition: background-image 270ms linear;
+  transition: background-color 270ms linear;
+}
+
+#default {
+  background-color: #202020 !important;
+}
+
+#start {
+  /* background-image: url("") !important; */
+  background-color: #2a4b6e !important;
+}
+
+#hero {
+  background-color: #6dbbe9;
+}
+
+#healer {
+  background-color: #680203;
+}
+
+#fighter {
+  background-color: #419c35;
+}
+
+#mage {
+  background-color: #d7450a;
+}
+
+#wanderer {
+  background-color: #10b0d9;
+}
+
+#overlord {
+  background-color: #343c3b;
+}
+
+#grey {
+  background-color: #534f4f;
+}
+
+#innocents,
+#villains {
+  background-color: #1c4093;
+}
+
+#mentors {
+  background-color: darkgreen;
+}
+
+#apprentices {
+  background-color: lightblue;
+}
+
+#friends {
+  background-color: darkgoldenrod;
+}
+
+#romances {
+  background-color: palevioletred;
+}
