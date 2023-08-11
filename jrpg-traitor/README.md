@@ -1,5 +1,10 @@
 # JRPG Traitor: Interactive
 
+## Editing notes
+
+* In order to have the dynamic background word correctly, you must set the
+  alpha of the entire background to 0 in the Creator
+
 ## Changelog
 
 * Fixed child sections so that they appear and disappear with their parent
@@ -13,7 +18,8 @@
   alignment so that it's easier to read
 * Only shows **Basic Tokens** by default now, rather than both **Basic Tokens**
   and **Advanced Tokens**
-
+* Made Point Bar icons white for better visibility
+* 
 
 ## TODO
 
@@ -34,6 +40,8 @@
 - [ ] For **AGE** section, allow taking Advanced Tokens too, as it doesn't
   actually specify *against* taking it
 - [ ] Use Lt Ouromov's viewer
+- [ ] Sort the Backpack using Groups (fuck me)
+- [ ] 
 
 ## Far off TODO
 

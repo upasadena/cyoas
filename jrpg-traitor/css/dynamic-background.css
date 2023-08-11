@@ -1,62 +1,60 @@
 .pb-12 {
   transition: background-image 270ms linear;
   transition: background-color 270ms linear;
+  background-color: rgba(0, 0, 0, 0);
 }
 
-#default {
+.default {
   background-color: #202020 !important;
 }
 
-#start {
-  /* background-image: url("") !important; */
+.start {
   background-color: #2a4b6e !important;
 }
 
-#hero {
-  background-color: #6dbbe9;
+.hero {
+  background-color: #6dbbe9 !important;
 }
 
-#healer {
-  background-color: #680203;
+.healer {
+  background-color: #680203 !important;
 }
 
-#fighter {
-  background-color: #419c35;
+.fighter {
+  background-color: #419c35 !important;
 }
 
-#mage {
-  background-color: #d7450a;
+.mage {
+  background-color: #d7450a !important;
 }
 
-#wanderer {
-  background-color: #10b0d9;
+.wanderer {
+  background-color: #10b0d9 !important;
 }
 
-#overlord {
-  background-color: #343c3b;
+.overlord {
+  background-color: #343c3b !important;
 }
 
-#grey {
-  background-color: #534f4f;
+.grey-bg {
+  background-color: #393737 !important;
 }
 
-#innocents,
-#villains {
-  background-color: #1c4093;
+.innocents,
+.villains {
+  background-color: #1c4093 !important;
+}
+.mentors {
+  background-color: darkgreen !important;
+}
+.apprentices {
+  background-color: lightblue !important;
 }
 
-#mentors {
-  background-color: darkgreen;
+.friends {
+  background-color: darkgoldenrod !important;
 }
 
-#apprentices {
-  background-color: lightblue;
-}
-
-#friends {
-  background-color: darkgoldenrod;
-}
-
-#romances {
-  background-color: palevioletred;
+.romances {
+  background-color: palevioletred !important;
 }
