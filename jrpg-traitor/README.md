@@ -45,6 +45,9 @@
   doesn't open all tabs at once)
 - [ ] Change Mentors, Apprentices, Friends, and Romances' private styling to
   transparent
+- [ ] Fix Backpack being transparent with Private Styling
+- [ ] Fix dynamic background not working if you go down then up then down then
+  up
 
 ## Far off TODO
 

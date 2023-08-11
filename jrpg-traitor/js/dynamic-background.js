@@ -36,8 +36,10 @@
  * 
  * Change these as needed
  */
-// Change to true if there is a bug
-const DEBUG = false;
+// Change to true if there is a bug.
+// DEBUG is not a constant so that you can
+// change it from the console whenever you want
+let DEBUG = false;
 // The amount of pixels from the centre that determine where the threshold for
 // transitioning is
 const centerThreshold = 45; // pixels
