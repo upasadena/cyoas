@@ -41,7 +41,10 @@
   actually specify *against* taking it
 - [ ] Use Lt Ouromov's viewer
 - [ ] Sort the Backpack using Groups (fuck me)
-- [ ] 
+- [ ] Apply dynamic divs to ALL sections (so that it will update even if a user
+  doesn't open all tabs at once)
+- [ ] Change Mentors, Apprentices, Friends, and Romances' private styling to
+  transparent
 
 ## Far off TODO
 
