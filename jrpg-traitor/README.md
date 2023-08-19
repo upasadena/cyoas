@@ -46,8 +46,14 @@
 - [ ] Change Mentors, Apprentices, Friends, and Romances' private styling to
   transparent
 - [ ] Fix Backpack being transparent with Private Styling
+- [ ] Sort Backpack into Rows using Groups
 - [ ] Fix dynamic background not working if you go down then up then down then
   up
+- [ ] Give IDs to the Rows (and maybe even Choices) that still lack them. Do
+  this using Row/ID List
+- [ ] In the **Demon Type** child row of **Race**, make the images have the
+  same aspect ratio for a tidier appearance
+
 
 ## Far off TODO
 
