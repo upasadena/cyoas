@@ -5,6 +5,7 @@ This is where I keep my CYOAs.
 * [Ultimate God CYOA Redux: Interactive][ultimate-god]
 * [Worm CYOA V3 Revised: Interactive][worm-v3]
 * [JRPG Traitor: Interactive][jrpg-traitor]
+* [Child of Magic: Interactive](https://child-of-magic.netlify.app/) (NSFW)
 
 ## Changelog and Previous Versions
 
