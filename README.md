@@ -2,6 +2,7 @@
 This is where I keep my CYOAs.
 
 * [Living God CYOA: Interactive][living-god]
+    * [Korean version][living-god-kr] by cyoadobby
 * [Ultimate God CYOA Redux: Interactive][ultimate-god]
 * [Worm CYOA V3 Revised: Interactive][worm-v3]
 * [JRPG Traitor: Interactive][jrpg-traitor]
@@ -81,6 +82,7 @@ View the indevelopment version [here][awakened-god].
 
 [worm-v3]: ./worm/v3/
 [living-god]: ./living-god/
+[living-god-kr]: https://cyoadobby.neocities.org/living-god/
 [living-god-v1.3.0]: https://upasadena.github.io/cyoas/living-god/
 [living-god-v1.2]: https://pasadena.neocities.org/cyoas/living_god_120/
 [living-god-v1.1]: https://pasadena.neocities.org/cyoas/living_god_110/
